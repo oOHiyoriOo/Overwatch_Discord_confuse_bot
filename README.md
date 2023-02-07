@@ -21,14 +21,5 @@ Its a discord bot that sends keys (you can find under this text) to you ( its li
 ```
 - in the state now you can compile it via "Pyinstaller" to an .exe
 - in case you just want to download the bot but have no python or anything: my releases ca be downloaded as exe here:
-```
-Latest (v1.5)
- 
-Latest:
- https://1drv.ms/f/s!AuLpKsQvDxYMiIEqazJhF-pl8oIVdA
 
-
-Archive (older versions): 
-https://1drv.ms/f/s!AuLpKsQvDxYMiIErgCDj6tJVG1bJjA 
-```
 its funyn for streams so dont aks somehing like " why would anyone want this?!" its just a fun projekt :P
